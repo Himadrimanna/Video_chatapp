@@ -1,3 +1,9 @@
+# Video Api configuration
+
+Create an account on Zegocloud https://www.zegocloud.com
+create free project of video and voice call 
+In the Project Configuration copy the AppID and ServerSecret of your project and paste them in the Room.js file 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
